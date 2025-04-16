@@ -32,6 +32,6 @@ main:
     url: awards/
     weight: 70
 
-- name: Academic Employment and Education
-  url: academic-history/
-  weight: 80
+  - name: Academic Employment and Education
+    url: academic-history/
+    weight: 80
