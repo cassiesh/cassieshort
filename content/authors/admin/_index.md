@@ -21,11 +21,10 @@ role: Postdoctoral Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: | 
-      Psychological Methods and Statistics Lab
-      Carl von Ossietzky Universität Oldenburg, Germany
+  - name: Psychological Methods and Statistics Lab
     url: https://uol.de/psychologie/statistik/
-
+  - name: Carl von Ossietzky Universität Oldenburg, Germany
+   
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
