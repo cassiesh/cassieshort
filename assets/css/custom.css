@@ -1,4 +1,4 @@
-.blox-resume-biography-3 .bio-text {
+#section-resume-biography-3 .max-w-prose {
     max-width: none !important;
     width: 100% !important;
   }
