@@ -17,11 +17,13 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Postdoc
+role: Postdoctoral Researcher
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Psychological Methods and Statistics Lab, Carl von Ossietzky Universität Oldenburg, Germany
+  - name: |
+      Psychological Methods and Statistics Lab  
+      Carl von Ossietzky Universität Oldenburg, Germany
     url: https://uol.de/psychologie/statistik/
 
 # Social network links
@@ -46,7 +48,8 @@ profiles:
 interests:
   - EEG individual differences
   - EEG methodology
-  - Social neuroscience, dual-EEG recordings
+  - Social neuroscience
+  - Dual-EEG recordings
   - Multiverse analysis
   - Metascience
   - Open science
