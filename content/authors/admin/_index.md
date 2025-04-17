@@ -93,23 +93,23 @@ interests:
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
-skills:
-  - name: Technical Skills
-    items:
-      - name: R for Statistical Computing
-        description: 'Experienced user'
+#skills:
+#  - name: Technical Skills
+#    items:
+#      - name: R for Statistical Computing
+#        description: 'Experienced user'
        # percent: 80
        # icon: code-bracket
-      - name: Matlab
-        description: 'Experienced user'
-       # percent: 100
-       # icon: chart-bar
-      - name: Python
-        description: 'Beginner'
+#      - name: Matlab
+#        description: 'Experienced user'
+#       # percent: 100
+#       # icon: chart-bar
+#      - name: Python
+#        description: 'Beginner'
        # percent: 40
        # icon: circle-stack
-      - name: Experienced with various EEG software and hardware
-        description: 'Curry by Compumedics Neuroscan, Brain Vision Products, BioSemi'
+#      - name: Experienced with various EEG software and hardware
+#        description: 'Curry by Compumedics Neuroscan, Brain Vision Products, BioSemi'
        # percent: 100
        # icon: chart-bar
  # - name: Hobbies
