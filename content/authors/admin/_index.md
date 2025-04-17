@@ -201,8 +201,14 @@ skills:
 
 ## About Me
 
-Hi! I am Postdoc in the Psychological Methods and Statistics Lab at the Carl von Ossietzky Universität Oldenburg in Germany.
-My academic career started in the UK, where I earned my PhD investigating the neural correlates of facial mimicry in children with Autism Spectrum Disorders. After that, I moved to Germany for my first postdoc position, spending three years in the Differential Psychology Lab at the University of Hamburg, working on the [CoScience Project](https://www.coscience-personality.com/). This led me to my current Postdoc position in Oldenburg, which I have enjoyed immensely since January 2023. 
-Over the years, I've built a solid foundation in EEG and methods research and in teaching. I'm passionate about contributing to the scientific community through publications, teaching workshops, contributing to conferences, leading and jining scientific committees, peer-reviewing research, and teaching and mentoring students. 
-My research interests are quite braod, but I am especially excited about electrophysiological correlates of personality, reliable ERP quantification measures, dual-EEG recordings, inter-person neuroscience, multiverse analysis, meta-science and open science. 
+Hi! I'm a Postdoc in the Psychological Methods and Statistics Lab at the Carl von Ossietzky Universität Oldenburg in Germany.
+
+My academic career began in the UK, where I earned my PhD investigating the neural correlates of facial mimicry in children with Autism Spectrum Disorders. At the end of 2019, I moved to Germany for my first postdoc position, spending three years in the Differential Psychology Lab at the University of Hamburg, working on the [CoScience Project](https://www.coscience-personality.com/). This led me to my current role as a Postdoc in the Psychological Methods and Statistics Lab at the Carl von Ossietzky Universität Oldenburg, which I've enjoyed immensely since January 2023. 
+
+I'm working on a number of exciting projects in this position, mainly focused on methodological development. I am focused on individualised ERP parameterisation to improve the validity and reproducibility of EEG individual differences research, developing metascientific methods, particularly multiverse analysis, and addressing data processing and analytical flexibility in neuroimaging research. As part of this work, I joined the METEOR project within the DFG funded SPP [META-REP](https://www.lmu.de/psy/de/forschung/meta-rep/). 
+
+Additionally, I voluntarily co-lead the Psychology Department's Open Science Interest Group [(OSIG)](https://uol.de/psychologie/open-science/osig), where I've initiated several projects, such as oganising a university-wide open science conference, launching a ReproducibiliTEA  journal club, and elping to further integrate open science into the curriculum.
+
+Over the years, I've built a solid foundation in EEG individual differences and methods research, alongside extensive teaching experience. I'm passionate about contributing to the scientific community through publications, workshops, conferences, scientific committees and networks, peer-reviewing, and mentoring. You can find more on each of these areas in the tabs above.
+
 If any of that sparks your interest, please feel free to get in touch! 
