@@ -27,7 +27,7 @@ sections:
           # Add your image background to `assets/media/`.
           filename: background2.png
           filters:
-            brightness: 1.0
+            brightness: 0.8
           size: cover
           position: center
           parallax: false
