@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://cassiesh.github.io/cassieshort/sitemap.xml
