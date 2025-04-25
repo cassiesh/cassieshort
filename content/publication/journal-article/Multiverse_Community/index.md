@@ -10,7 +10,7 @@ authors:
 - "Maximilian Frank"
 - "Carsten Gießing"
 - "Daniel Krähmer"
-- "Daniel" Kristanto"
+- "Daniel Kristanto"
 - "Tina Lonsdorf"
 - "Claudia Neuendorf"
 - "Hung HV Nguyen"
