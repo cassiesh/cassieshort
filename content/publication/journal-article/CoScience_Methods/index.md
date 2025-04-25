@@ -54,7 +54,7 @@ featured: false
  links:
 # - name: ""
 #   url: ""
- url_pdf: https://journals.sagepub.com/doi/epub/10.5964/ps.7177
+url_pdf: https://journals.sagepub.com/doi/epub/10.5964/ps.7177
 # url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
 # url_dataset: ''
 # url_poster: ''
