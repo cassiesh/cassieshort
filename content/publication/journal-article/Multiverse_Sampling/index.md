@@ -1,3 +1,4 @@
+---
 title: "Lost in a Large EEG Multiverse? Comparing Sampling Approaches for Representative Pipeline Selection (preprint)."
 authors:
 - "Cassie Ann Short"

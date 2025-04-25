@@ -1,3 +1,4 @@
+---
 title: "The methodology and dataset of the CoScience EEG-Personality Project – A large-scale, multi-laboratory project grounded in cooperative forking paths analysis."
 authors:
 - "Katharina Paul* [joint first author]"

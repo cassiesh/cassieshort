@@ -1,3 +1,4 @@
+---
 title: "Frontal alpha asymmetry as a marker of approach motivation? Insights from a cooperative forking path analysis."
 authors:
 - "Katharina Paul"

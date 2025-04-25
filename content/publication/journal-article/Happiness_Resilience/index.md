@@ -1,3 +1,4 @@
+---
 title: "Happiness as a predictor of resilience in students at a further education college."
 authors:
 - "Cassie Ann Short"

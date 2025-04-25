@@ -1,3 +1,4 @@
+---
 title: "Multi-curious: A Multi-Disciplinary Guide to Multiverse Analysis (preprint)."
 authors:
 - "Cassie Ann Short"

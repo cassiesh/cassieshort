@@ -1,3 +1,4 @@
+---
 title: "The Systematic Multiverse Analysis Registration Tool (SMART) for Defining Multiverse Analyses (preprint)."
 authors:
 - "Cassie Ann Short"
