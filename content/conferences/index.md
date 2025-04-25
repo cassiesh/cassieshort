@@ -2,8 +2,6 @@
 title: "Conferences"
 ---
 
-This page showcases conference contributions, including organisation, workshops, webinars, panels, talks, and posters.
-
 ## Conference Organisation
 
 **18 July 2025 — The UOL Open Science Conference**  
