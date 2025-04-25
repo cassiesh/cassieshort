@@ -21,11 +21,7 @@ A central aim of my work is to develop improved estimation techniques that help 
 A central aim of my work is to develop highly precise individualised spatial and temporal single-trial ERP parameterisation techniques to enhance the validity and reproducibility of EEG individual differences research. Individualised and dynamic ERP parameterisation can better account for intra- and inter-individual variability, which holds promise for estimating more reproducible associations between neural activity and personality traits. My current Associate Junior Fellowship supports this line of work by funding a dedicated collaborative methods workshop. I am also interested in the broader applications of this methodological advancement, such as the improvement of diagnostic sensitivity and the assessment of cognitive functioning. 
 
 *Selected related works:*
-* **Short, C. A.**, Breznau, N., Bruntsch, M., Burkhardt, M., Busch, N., Cesnaite, E., Frank, M., Gießing, C., Krähmer, D., Kristanto, D., Neuendorf, C., Nguyen, H. H. V., Rausch, M., Schmalz, X, Schneck, A., Tabakci, C. & Hildebrandt, A. (2025). Multi-curious: A Multi-Disciplinary Guide to Multiverse Analysis. *MetaArXiv*. https://doi.org/10.31222/osf.io/4yzeh_v1 
-
-* **Short, C. A.**, Hildebrandt, A., Bosse, R., Debener, S., Oezyagcilar, M., Paul, K., Wacker, J., &Kristanto, D. Lost in a Large EEG Multiverse? Comparing Sampling Approaches for Representative Pipeline Selection. (2025). *bioRxiv*. https://doi.org/10.1101/2025.04.08.647779 
-
-* **Short, C. A.**, Inceler, Y, C., Frank, M., & Hildebrandt, A. (2025). The Systematic Multiverse Analysis Registration Tool (SMART) for Defining Multiverse Analyses. (2025). *MetaArXiv*. https://doi.org/10.31222/osf.io/yfr2d_v1 
+Upcoming workshop: https://hanse-ias.de/veranstaltungen/detail/event/520 
 
 ### Metascience
 I am deeply committed to advancing scientific transparency and rigour through metascientific research. My work in this area focuses primarily on two domains:
@@ -35,6 +31,11 @@ I am deeply committed to advancing scientific transparency and rigour through me
 2. Replication Terminology: I am contributing to a cross-disciplinary initiative working to develop a shared vocabulary that can more precisely describe the spectrum of replication and reproduction practices. This effort seeks to promote conceptual clarity and greater cohesion across disciplines in how replication-related constructs are communicated and operationalised.
 
 *Selected related works:*
+* **Short, C. A.**, Breznau, N., Bruntsch, M., Burkhardt, M., Busch, N., Cesnaite, E., Frank, M., Gießing, C., Krähmer, D., Kristanto, D., Neuendorf, C., Nguyen, H. H. V., Rausch, M., Schmalz, X, Schneck, A., Tabakci, C. & Hildebrandt, A. (2025). Multi-curious: A Multi-Disciplinary Guide to Multiverse Analysis. *MetaArXiv*. https://doi.org/10.31222/osf.io/4yzeh_v1 
+
+* **Short, C. A.**, Hildebrandt, A., Bosse, R., Debener, S., Oezyagcilar, M., Paul, K., Wacker, J., &Kristanto, D. Lost in a Large EEG Multiverse? Comparing Sampling Approaches for Representative Pipeline Selection. (2025). *bioRxiv*. https://doi.org/10.1101/2025.04.08.647779 
+
+* **Short, C. A.**, Inceler, Y, C., Frank, M., & Hildebrandt, A. (2025). The Systematic Multiverse Analysis Registration Tool (SMART) for Defining Multiverse Analyses. (2025). *MetaArXiv*. https://doi.org/10.31222/osf.io/yfr2d_v1 
 
 ### Inter-person Neuroscience
 My earlier work used dual-EEG (hyperscanning) in child-parent dyads to investigate the neural correlates of features of social interactions between children with Autism Spectrum Disorders and their parents. This sparked an interest in inter-brain neural synchrony and compensation, and its potential as a marker of interpersonal attunement. In future research, I aim to return to this method to explore how synchronous and compensatory dynamics vary across individuals and relationships, and how it may be modulated by personality, affect, or context. I hope to supervise student theses on this topic in the coming years.
