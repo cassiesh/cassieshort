@@ -32,13 +32,14 @@ Interactive Methods to Understand Social Processing in Children with Autism Spec
 *Two hours per week for the Psychology Department, teaching on the MSc. Neurocognitive Psychology Degree Course.*
 
 ### Lectures
-Introduction to Statistics 
+MSc. Introduction to Statistics 
 
 ### Seminars
-Multivariate Statistics: Evaluation Research - Theory
-Multivariate Statistics: Evaluation Research - Practical Sessions using R
+MSc. Multivariate Statistics: Evaluation Research - Theory
 
-Plus MSc. thesis and Practical Project student supervision
+MSc. Multivariate Statistics: Evaluation Research - Practical Sessions using R
+
+Plus supervision of MSc. Theses and Practical Projects
 
 ## University of Hamburg, Germany (2020 - 2022)
 *Four hours per week for the Psychology Department, teaching on BSC. and MSc. Psychology Degree Courses.*
@@ -51,10 +52,10 @@ BSc. Social Cognitive Neuroscience to Understand Individual Differences (self-de
 BSc. Personality and Social Relationships (self-developed seminar)
 BSc. Indepth Seminar on Differential Psychology: Individual Differences in Adaptive Behaviours (self-developed and shared seminar)
 
-Plus MSc. and BSc. thesis student supervison
+Plus supervision of MSc. and BSc. theses
 
 ## University of Bolton, UK (2016 - 2019)
-*Six hours per week for the Psychology Department, teaching on BSc. and MSc. Psychology and Social Neuroscience Degree Courses.*
+*Six hours per week for the Psychology Department, teaching on BSc. Psychology, MSc. Psychology and MSc. Social Neuroscience Degree Courses.*
 
 ### Lectures
 MSc. Social Neuroscience (contributed to module development)
