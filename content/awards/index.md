@@ -5,10 +5,10 @@ title: "Funding and Awards"
 This section highlights academic awards, fellowships, and grant funding received.
 
 **2025 - IGOR Prize for Open and Reproducible Science in Biological Psychology**
-* **Awarding Body:** Interest Group for Open and Reproducible Science (IGOR) of the Biological Psychology Section of the German Psychological Association (GDPs)
+* **Awarding Body:** Interest Group for Open and Reproducible Science (IGOR) of the Biological Psychology Section of the German Psychological Association (DGPs)
 * **Amount:** 250 Euros
 
-<img src="/static/uploads/IGORprize.jpg" alt="Receiving the award" width="400" />
+<img src="/uploads/IGORprize.jpg" alt="Receiving the award1" width="400" />
 
 **2024 - META-REP Small Project Funding**
 * **Awarding Body:** DFG SPP META-REP
@@ -22,7 +22,7 @@ This section highlights academic awards, fellowships, and grant funding received
 * **Awarding Body:** Universitätsgesellschaft Oldenburg e.V.
 * **Amount:** 1,000 Euros
 
-<img src="/static/uploads/osprize.jpg" alt="Receiving the award" width="400" />
+<img src="/uploads/osprize.jpg" alt="Receiving the award2" width="400" />
 
 **2022 - Presidential Office Research Postdoc Funding Award**
 * **Awarding Body:** Carl von Ossietzky Universität Oldenburg
