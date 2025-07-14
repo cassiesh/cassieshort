@@ -40,9 +40,10 @@ I am deeply committed to advancing scientific transparency and rigour through me
 ### Inter-person Neuroscience
 My earlier work used dual-EEG (hyperscanning) in child-parent dyads to investigate the neural correlates of features of social interactions between children with Autism Spectrum Disorders and their parents. This sparked an interest in inter-brain neural synchrony and compensation, and its potential as a marker of interpersonal attunement. In future research, I aim to return to this method to explore how synchronous and compensatory dynamics vary across individuals and relationships, and how it may be modulated by personality, affect, or context. I hope to supervise student theses on this topic in the coming years.
 
-*Selected related works:*
-
 ### Open Science
 Open science is a core dimension of my research philosophy and academic practice. I currently co-lead the Open Science Interest Group (OSIG) of the Department of Psychology at the Carl von Ossietzky Universität Oldenburg, through which I have introduced and coordinated several grass-roots initiatives, including a university-wide open science conference, a ReproducibiliTEA journal club, and the further integration of open science principles into the curriculum. I regularly give workshops and presentations on open science topics. I am committed to promoting a culture of transparency and collaborative knowledge building.
 
 *Selected related works:*
+
+* Materials from the latest workshop on multiverse analysis - Psychologie und Gehirn 2025 Pre-Conference Workshop: [Jupyter Notebook](https://pmus-lab.github.io/pug2025-workshop/book/introduction.html)
+* Website of the Open Science Conference for which I initiated and led the oranisation: [UOL Open Science Conference](https://osig-uol.github.io/oosc/)
