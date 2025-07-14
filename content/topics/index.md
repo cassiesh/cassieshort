@@ -6,9 +6,11 @@ design:
 ---
 
 ### EEG Individual Differences
-I am particularly interested in how individual differences in personality are associated with patterns of neural activity, as measured by electroencephalography (EEG). During my postdoctoral work on the CoScience Project, as one of two postdocs employed to oversee the implementation of the project, I investigated the robustness of various EEG–personality associations to defensible variability in data processing, EEG parameterisation, and analysis across a variety of EEG individual differences hypotheses.
+I am particularly interested in how individual differences in personality are associated with patterns of neural activity, as measured by electroencephalography (EEG). 
 
-A central aim of my work is to develop improved estimation techniques that help to answer key research questions about individual differences with greater validity and reproducibility. 
+During my postdoctoral work on the multi-laboratory CoScience Project, as one of two postdocs employed to oversee the full implementation of the project, I investigated the robustness of various EEG–personality associations to defensible variability in data processing, EEG parameterisation, and analysis.
+
+At present, a central aim of my work is to improve the validity and reproducibility of single trial EEG estimation techniques that help to answer key research questions about individual differences. 
 
 *Selected related works:*
 * Paul, K., **Short, C. A.(shared first author)**, Beauducel, A., Carsten, H. P., Härpfer, K., Hennig, J., Hewig, J., Hildebrandt, A., Kührt, C., Mueller, E. M., Munk, A., Osinsky, R., Porth, E., Riesel, A., Rodrigues, J., Scheffel, C., Stahl, J., Strobel, A. & Wacker, J. (2022). The methodology and dataset of the coscience eeg-personality project–a large-scale, multi-laboratory project grounded in cooperative forking paths analysis. *Personality Science*, 3(1), e7177. https://doi.org/10.5964/ps.7177
@@ -18,17 +20,19 @@ A central aim of my work is to develop improved estimation techniques that help 
 * **Short, C. A.**, Beauducel, A., Härpfer, K., Hennig, J., Hewig, J., Hildebrandt, A., Kührt, C., Mueller, E. M., Osinsky, R., Paul, K., Porth, E., Riesel, A., Rodrigues, J., Stahl, J., Strobel, A., Scheffel, C., Wacker, J. Experimenter-based moderation of the association between trait approach motivation and resting frontal asymmetry: A large forking paths investigation. (2025). https://coscience.psy.uni-hamburg.de/sample-apps/FAA_Experimenter/ 
 
 ### EEG Methodological Development - Towards Individualised EEG Parameterisation
-A central aim of my work is to develop highly precise individualised spatial and temporal single-trial ERP parameterisation techniques to enhance the validity and reproducibility of EEG individual differences research. Individualised and dynamic ERP parameterisation can better account for intra- and inter-individual variability, which holds promise for estimating more reproducible associations between neural activity and personality traits. My current Associate Junior Fellowship supports this line of work by funding a dedicated collaborative methods workshop. I am also interested in the broader applications of this methodological advancement, such as the improvement of diagnostic sensitivity and the assessment of cognitive functioning. 
+A central aim of my work is to develop highly precise, individualised spatial and temporal single-trial EEG parameterisation techniques, with the aim of enhancing the validity and reproducibility of EEG individual differences research. Individualised and dynamic EEG parameterisation can better account for intra- and inter-individual variability, offering the potential to estimate more reliable and reproducible associations between neural activity and behaviour, cognition, and personality traits. I am also interested in the broader applications of this methodological advancement, such as improving diagnostic sensitivity and the assessing of cognitive functioning. 
+
+My current Associate Junior Fellowship supports this line of work by funding a dedicated collaborative methods workshop on the evaluation of single trial EEG estimates. Through this workshop, I have established an international collaboration of experts to support this endevour. 
 
 *Selected related works:*
 Upcoming workshop: https://hanse-ias.de/veranstaltungen/detail/event/520 
 
 ### Metascience
-I am deeply committed to advancing scientific transparency and rigour through metascientific research. My work in this area focuses primarily on two domains:
+I am deeply committed to advancing scientific transparency and rigour through metascientific research. My work in this area primarily focuses on two domains:
 
-1. Multiverse Analysis: I actively apply multiverse analysis to assess the robustness of research findings across defensible variations in data processing and analytic decisions. Beyond application, I am also engaged in the methodological development of this approach. In particular, I am focusing on reducing the uncertainty associated with pipeline sampling in large-scale multiverse designs, and on formalising the decision-making process to construct multiverse analyses in a more systematic and transparent way. These developments aim to improve the utility of multiverse analysis as a tool for reducing sources of uncertainty. I also collaborate within a multi-disciplinary working group that is dedicated to bringing cohesion in multiverse practices across scientific fields.
+1. Multiverse Analysis: I apply multiverse analysis to assess the robustness of research findings across defensible variations in data processing and analytic decisions. Beyond application, I am also engaged in the methodological development of this approach. In particular, I am working to reduce the uncertainty associated with pipeline sampling in large-scale multiverse designs, and to formalise the decision-making process for constructing multiverse analyses, improving systematicity and transparency. These developments aim to improve the utility of multiverse analysis as a tool for reducing sources of uncertainty. I also collaborate within a multi-disciplinary working group that is dedicated to bringing cohesion in multiverse practices across scientific fields.
 
-2. Replication Terminology: I am contributing to a cross-disciplinary initiative working to develop a shared vocabulary that can more precisely describe the spectrum of replication and reproduction practices. This effort seeks to promote conceptual clarity and greater cohesion across disciplines in how replication-related constructs are communicated and operationalised.
+2. Replication Terminology: I am part of a cross-disciplinary initiative that is developing a shared vocabulary to more precisely describe the spectrum of replication and reproduction practices. This effort seeks to promote conceptual clarity and greater cohesion across disciplines in how replication-related constructs are communicated and operationalised.
 
 *Selected related works:*
 * **Short, C. A.**, Breznau, N., Bruntsch, M., Burkhardt, M., Busch, N., Cesnaite, E., Frank, M., Gießing, C., Krähmer, D., Kristanto, D., Neuendorf, C., Nguyen, H. H. V., Rausch, M., Schmalz, X, Schneck, A., Tabakci, C. & Hildebrandt, A. (2025). Multi-curious: A Multi-Disciplinary Guide to Multiverse Analysis. *MetaArXiv*. https://doi.org/10.31222/osf.io/4yzeh_v1 

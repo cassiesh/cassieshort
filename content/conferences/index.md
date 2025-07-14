@@ -62,9 +62,6 @@ Panelists: Nate Breznau (moderator and organiser), Claudia Neuendorf, Cristobal 
 **September 2025 - Multiverse Sampling Uncertainty in EEG Individual Differences Research**
 Differentielle Psychologie, Persönlichkeitspsychologie und Psychologische Diagnostik (DPPD) Conference 2025, Kassel, Germany
 
-**July 2025 - A Multi-Disciplinary Guide to Multiverse Analysis**
-Metascience Conference 2025, London, UK
-
 **June 2025 - Active Learning to Sample from and Estimate Large EEG Preprocessing Multiverse Analyses**
 Psychologie und Gehirn Conference 2025, Würzburg, Germany
 Part of the Symposium: Emerging Methodological Trends in Cognitive Neuroscience: From Substantial Research to Meta-analytic Approaches
