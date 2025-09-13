@@ -13,8 +13,8 @@ authors:
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2025-04-15"
-doi: "https://doi.org/10.1101/2025.04.08.647779"
+date: "2025-09-09"
+doi: "https://doi.org/10.1016/j.jneumeth.2025.110564"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
@@ -25,10 +25,10 @@ doi: "https://doi.org/10.1101/2025.04.08.647779"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*bioRxiv*"
+publication: "*Journal of Neuroscience Methods*"
 # publication_short: ""
 
-abstract: The multiplicity of defensible strategies for processing and analysing data has been implicated as a core contributor to the replicability crisis, creating uncertainty about the robustness of a result to variations in data processing choices. This issue is exacerbated where a large number of data processing pipelines are defensible, and where there is great heterogeneity in the pipelines applied in the literature, such as in processing and analysing electroencephalography (EEG) signals. In a multiverse analysis, equally defensible pipelines are computed and the robustness of the result to these variations is reported. However, a large number of defensible pipelines is sometimes infeasible to compute exhaustively, and researchers rely on sampling approaches. In these cases, pipelines are sampled from the full multiverse and the robustness is reported across these samples, assuming that they are representative for the entire multiverse. However, different sampling methods may yield different robustness results, introducing what we term multiverse sampling uncertainty. To illustrate, we computed a 528-pipeline multiverse analysis on EEG-recordings during an emotion classification task aiming to predict extraversion scores from the Late Positive Potential. We applied three sampling methods (random, stratified, and active learning) to sample 26 pipelines (5%), and evaluated the results in terms of the representativeness of the distribution of model fits to that of the full multiverse. Our results highlight variability in the representativeness of the distribution of model fits between samples. The active learning sample most closely represented the median model fit of the full multiverse. The need for representative pipeline sampling to mitigate bias in large multiverse analyses is discussed. 
+abstract: The multiplicity of defensible pipelines for processing and analysing data has been implicated as a core contributor to low replicability, creating uncertainty about the robustness of results to defensible variations. This is exacerbated where many defensible pipelines exist, such as in processing electroencephalography (EEG) signals. In multiverse analyses, equally defensible pipelines are computed and the robustness across pipelines is reported. Computing all pipelines is often infeasible, and researchers rely on sampling approaches, assuming representativeness of the full multiverse. However, different sampling methods may yield different robustness estimates, introducing what we term multiverse sampling uncertainty. We developed an open-source tool to compare pipeline samples on their representativeness of the full multiverse. We computed a 528-pipeline use case multiverse on EEG recordings during an emotion classification task to predict extraversion scores from the Late Positive Potential. We applied three sampling methods (random, stratified, active learning) to sample 26 pipelines (5 %) and evaluated the representativeness of model fit distributions. Our results highlight variability in the representativeness of model fit distributions across samples, with active learning and stratified sampling most closely representing the full multiverse. Replicability of results is reported using cross-validation, and reproducibility is explored across pipeline sample sizes. Large multiverse analyses in neuroimaging typically rely on sampling, but sampling approaches are not often systematically compared for their representation of the full multiverse. The need for representative pipeline sampling to mitigate bias in large multiverse analyses is discussed.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.

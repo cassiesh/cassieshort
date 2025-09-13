@@ -9,7 +9,7 @@ authors:
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2025-04-22"
+date: "2025-09-09"
 doi: "https://doi.org/10.31222/osf.io/yfr2d_v1"
 
 # Schedule page publish date (NOT publication's date).
@@ -21,10 +21,10 @@ doi: "https://doi.org/10.31222/osf.io/yfr2d_v1"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*MetaArXiv*"
+publication: "*Royal Society Open Science*"
 # publication_short: ""
 
-abstract: Multiverse analysis is increasingly recognised as a systematic framework for investigating and reporting the robustness of scientific results across alternative defensible data processing and analysis pipelines. Defining the multiverse of alternative pipelines requires identifying all defensible combinations of options across multiple decision nodes along the data analysis workflow. This remains a cognitively demanding and logically complex task. Consequently, the extent of transparent documentation of the decisions made to design the multiverse analysis and the rationale for those decisions is variable and not always satisfactory in the current literature. A lack of transparent and systematic documentation of this process risks undermining the core methodological goal of communicating uncertainty. While preregistration of experimental studies is increasingly popular and is recognised for increasing transparency and trust in the research process, these well-known benefits are not yet fully harnessed for multiverse analyses. To address this, we developed the Systematic Multiverse Analysis Registration Tool (SMART), designed to support researchers from different scientific disciplines to construct multiverse analyses in a transparent and systematic stepwise process. SMART guides users through each step of the multiverse construction procedure, documenting all decisions and justifications at each step. It supports the construction of multiverse analyses that include all defensible pipelines within a given scope, and principled multiverse analyses where the defensible multiverse is deflated based on objective criteria of pipeline equivalence. The documentation is exportable and can be used as a preregistration or as supplementary material to the published multiverse analysis. By increasing the ease, transparency and reproducibility of multiverse construction, SMART facilitates more rigorous robustness assessments and contributes to the broader goals of open and reproducible science.
+abstract: Multiverse analysis is increasingly recognised as a systematic framework for assessing the robustness of scientific results across alternative defensible data processing and analysis pipelines. However, defining the multiverse, by identifying defensible combinations of options across multiple nodes in the analysis workflow, remains a cognitively and logistically demanding and complex task. Consequently, documentation of how multiverse analyses are constructed and the rationale behind decisions made is often incomplete, which risks the transparency and interpretability of robustness claims. The Systematic Multiverse Analysis Registration Tool (SMART) addresses this gap. SMART guides users from diverse scientific disciplines through the construction of multiverse analyses via a transparent, stepwise workflow. It guides the users through all defensibility and equivalence decisions, and documents each decision made. This supports the creation of complete multiverses within user-defined criteria, with visual and numerical feedback to highlight potential errors along the procedure. The exportable documentation can be used for preregistration or included as supplementary material alongside the published manuscript to report uncertainty at the level of multiverse construction. By increasing the transparency, reproducibility, and rigour in multiverse construction, and bringing cohesion to this procedure across multiverse analyses, SMART facilitates more interpretable robustness assessments and contributes to the broader goals of open and reproducible science.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
