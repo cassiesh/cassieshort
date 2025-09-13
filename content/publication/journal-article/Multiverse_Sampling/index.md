@@ -1,5 +1,5 @@
 ---
-title: "Lost in a Large EEG Multiverse? Comparing Sampling Approaches for Representative Pipeline Selection (preprint)."
+title: "Lost in a Large EEG Multiverse? Comparing Sampling Approaches for Representative Pipeline Selection"
 authors:
 - "Cassie Ann Short"
 - "Andrea Hildebrandt"

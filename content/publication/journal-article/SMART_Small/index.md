@@ -1,5 +1,5 @@
 ---
-title: "The Systematic Multiverse Analysis Registration Tool (SMART) for Defining Multiverse Analyses (preprint)."
+title: "The Systematic Multiverse Analysis Registration Tool (SMART) for Defining Multiverse Analyses"
 authors:
 - "Cassie Ann Short"
 - "Yusuf Cosku Inceler"
