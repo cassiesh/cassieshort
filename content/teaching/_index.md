@@ -6,6 +6,8 @@ This section outlines my teaching experience across universities, including invi
 
 ## Invited Lectures
 
+* (Upcoming) **January 2026 - QUEST Centre at the Charité Berlin, Germany** Exploring the Multiverse: Transparency, Uncertainty, and Robustness in Data Analysis
+
 * **April 2025 - Leuphana Universität Lüneburg, Germany** Investigating Experimenter Sex and Attractiveness as Moderators of the Association Between Trait Approach Motivation and Resting Frontal Asymmetry
 
 * **November 2024 - Hanse-Wissenschaftskolleg, Germany** Multiverse Analysis: Reporting Robustness and Increasing Transparency in Empirical Research
