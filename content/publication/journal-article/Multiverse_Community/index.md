@@ -23,7 +23,7 @@ authors:
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "in press"
+date: "2026"
 doi: "https://doi.org/10.31222/osf.io/4yzeh_v1"
 
 # Schedule page publish date (NOT publication's date).
