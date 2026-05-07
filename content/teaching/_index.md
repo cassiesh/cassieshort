@@ -6,41 +6,38 @@ This section outlines my teaching experience across universities, including invi
 
 ## Invited Lectures
 
-* (Upcoming) **January 2026 - QUEST Centre at the Charité Berlin, Germany** Exploring the Multiverse: Transparency, Uncertainty, and Robustness in Data Analysis
-
+* **January 2026 - QUEST Centre at the Charité Berlin, Germany** Exploring the Multiverse: Transparency, Uncertainty, and Robustness in Data Analysis
 * **April 2025 - Leuphana Universität Lüneburg, Germany** Investigating Experimenter Sex and Attractiveness as Moderators of the Association Between Trait Approach Motivation and Resting Frontal Asymmetry
-
 * **November 2024 - Hanse-Wissenschaftskolleg, Germany** Multiverse Analysis: Reporting Robustness and Increasing Transparency in Empirical Research
-
 * **June 2022 - Carl von Ossietzky Universität Oldenburg** The CoScience EEG Personality Project
-
 * **March 2021 - University of Bolton** EEG Data Acquisition
-
 * **January 2021 - University of Bolton** Navigating Your PhD Journey
-
 * **October 2020 - University of Bolton** Understanding and Interpreting Others: Social Neuroscience
-
 * **May 2016 - University of Manchester** Interactive Methods to Understand Social Processing in Children with Autism Spectrum Disorders
 
+## Invited Presentations
 
+* **April 2026 - Regionales NFDI-Treffen (Bremen-Oldenburg). University of Bremen, Germany** Presenting the Scientific Centre for Methods of Artificial Intelligence and Data Science (WiZArD) and the Open Science Interest Group (OSIG)
+* **March 2026 - Data Nord Data Community Club. University of Bremen, Germany** Open Science Interest Group of UOL
+   
 ## Carl von Ossietzky Universität Oldenburg, Germany (2023 - 2025)
 *Two hours per week for the Psychology Department, teaching on the MSc. Neurocognitive Psychology Degree Course.*
 
 ### Lectures
-* MSc. Introduction to Statistics 
+* MSc. Introduction to Statistics
+* Upcoming WiSe 26/27: MSc. Multivariate Statistical Modeling
+* Upcoming SuSe 2027: MSc. Test Theory and Construction
 
 ### Seminars
-* MSc. Multivariate Statistics: Evaluation Research - Theory
-
+* MSc. Multivariate Statistics: Evaluation Research - Theory (Lecture Format)
 * MSc. Multivariate Statistics: Evaluation Research - Practical Sessions using R
-
 * Plus supervision of MSc. Theses and Practical Projects
 
 ## University of Hamburg, Germany (2020 - 2022)
 *Four hours per week for the Psychology Department, teaching on BSC. and MSc. Psychology Degree Courses.*
 
 ### Lectures
-* MSc. Origins of and Differences in Human Cognition and Personality (three self-developed lectures in the series)
+* MSc. Origins of and Differences in Human Cognition and Personality (three self-developed lectures in the module)
 
 ### Seminars
 * BSc. Social Cognitive Neuroscience to Understand Individual Differences (self-developed seminar)
