@@ -2,17 +2,23 @@
 title: "Conferences"
 ---
 
+Invitied talks and guest lectures are listed on the 'Teaching' page. 
+
 ## Conference Organisation
 
 **18 July 2025 — The UOL Open Science Conference**  
-As co-lead of the Open Science Interest Group (OSIG) of the Psychology Department at the Carl von Ossietzky Universität Oldenburg (UOL), I have organised a one-day interdisciplinary conference bringing together staff and students across all career stages to discuss open science initiatives and challenges. The aim is to provide a platform for learning, building cross-disciplinary collaborations, supporting open science initiatives at UOL, establishing university-wide connections for OSIG, and inspiring the creation of open science interest groups in other departments. 
+As co-lead of the Open Science Interest Group (OSIG) in the Department of Psychology at the Carl von Ossietzky Universität Oldenburg (UOL), I organised a one-day interdisciplinary conference that brought together staff and students across career stages to discuss open science initiatives and challenges. The conference aimed to support learning, foster cross-disciplinary collaboration, strengthen open science initiatives at UOL, and inspire the creation of similar groups in other departments. 
 🔗 [Conference website](https://uol.de/psychologie/open-science/osig)
 
 **24–25 June 2025 — Enhancing replicability in EEG Individual Differences research through individually parameterised single trial EEG**  
-As part of my Associate Junior Fellowship at the Hanse-Wissenschaftskolleg Delmenhorst (HWK), I am organising a two-day workshop exploring strategies to evaluate and improve the validity of single-trial EEG estimates. Several well-established researchers from around the world will join the workshop and contribute to the discussion. I hope that our collaborative paper following this workshop will enhance reproducibility in EEG individual differences research.  
+As part of my Associate Junior Fellowship at the Hanse-Wissenschaftskolleg Delmenhorst (HWK), I organised a two-day workshop on strategies to evaluate and improve the validity of single-trial EEG estimates. The workshop brought together international experts in psychophysiology, psychometrics, and EEG methodology and laid the foundation for an ongoing collaborative paper on improving replicability in EEG individual differences research. 
 🔗 [Event page](https://hanse-ias.de/en/the-institute/projects/postdoc-program/events/event/520)
 
 ## Workshops
+
+**December 2025 - Proposing a Methods Review of Network Neuroscience, Informed by Open Science Principles**
+Mapping Interdisciplinary Perspectives on Network Neuroscience-Based Brain-Behaviour Modelling 2025, Hong Kong
+Trainers: Andrea Hildebrandt, Cassie Short
 
 **June 2025 - Multiverse Analysis for Neuroimaging**
 Psychologie und Gehirn Conference 2025, Würzburg, Germany
@@ -40,6 +46,9 @@ Trainers: Cassie Short
 
 ## Webinars
 
+**March 2026 - Multiverse Analysis for Reporting Robustness to Analytical Flexibility**
+Love Replications Week
+
 **July 2023 - Multiverse Analysis**
 Meta-Research Methods Series, QUEST Center, Berlin Institute of Health @ Charité
 🔗 [Recording](https://www.youtube.com/watch?v=CikYpe3589Q&list=PLfUhgSAavwIUVRzWk3SA-vkzYRSwBw_Bd)
@@ -49,15 +58,25 @@ Teaching Excellence Network Webinar, University of Bolon, UK
 
 ## Panels
 
-**"September 2025 - Multiverse Analysis: Essential for Scientific Rigour?"**
+**September 2025 - Multiverse Analysis: Essential for Scientific Rigour?**
 Differentielle Psychologie, Persönlichkeitspsychologie und Psychologische Diagnostik (DPPD) Conference 2025, Kassel, Germany
-Panelists: Cassie Short (moderator and organiser), Jan Wacker, Johannes Rodrigues, Julia Rohrer, Andrea Hildebrandt
+Panelists: Cassie Short (moderator and organiser), Jan Wacker, Johannes Rodrigues, Julia Rohrer
+
+**June 2025 - Handling the Time Challenges of Open Science Practices for Early Career Researchers**
+Oldenburg Open Science Conference 2025, Oldenburg, Germany
+Panelists: Cassie Short (moderator and organiser), Maximilian Frank, Lisa Spitzer, Dilan Barisan, Andrea Hildebrandt
 
 **May 2023 - The Promise and Pitfalls of Multiverse Analysis: A Moderated Discussion**
 Metascience 2023 Conference, Washington D.C., USA
-Panelists: Nate Breznau (moderator and organiser), Claudia Neuendorf, Cristobal Young, Cassie Short
+Panelists: Nate Breznau, Claudia Neuendorf, Cristobal Young, Cassie Short
 
-## Talks
+## Conference Talks
+
+**June 2026 (accepted) - Multiverse Sampling Uncertainty in Large Brain-Behaviour Multiverse Analyses**
+Organization for Human Brain Mapping 2026, Bordeaux, France
+
+**December 2025 - Methodological Challenges and Advances for Systematic Robustness Analyses of Brain-Behaviour Associations.**
+Mapping Interdisciplinary Perspectives on Network Neuroscience-Based Brain-Behaviour Modelling, Hong Kong
 
 **September 2025 - Multiverse Sampling Uncertainty in EEG Individual Differences Research**
 Differentielle Psychologie, Persönlichkeitspsychologie und Psychologische Diagnostik (DPPD) Conference 2025, Kassel, Germany
@@ -92,7 +111,16 @@ Teaching Intensive Research Informed Conference 2019, Bolton, UK
 **July 2015 - Adjustment to University: Factors and Strategies to Support Success and Retention**
 Teaching Intensive Research Informed Conference 2015, Bolton, UK
 
-## Posters
+## Posters (poster contributions not listed, unless senior author)
+
+**June 2026 (accepted) - Multiverse Sampling Uncertainty in Large Brain-Behaviour Multiverse Analyses**
+Organization for Human Brain Mapping 2026, Bordeaux, France
+
+**June 2026 (accepted) - Variance Decomposition Robustness Analysis of Single-Trial N170 and LPP Amplitudes and Latencies Across Quantification Strategies: A Multiverse Approach**
+Psychologie und Gehirn, Heidelberg, Germany
+
+**October 2025 - Precision and Transparency in EEG-Based Neurosensory Research: Individualised Single-Trial Estimation and Multiverse Methodology**
+Annual Meeting of the Research Centre for Neurosensory Science, Delmenhorst, Germany
 
 **June 2024 - Improving the Diagnostic Quality and Robustness of Neurometric Markers of Individual Differences Through Multiverse Analysis**
 Tag der Forschung der Fakultät VI, Carl von Ossietzky Universität Oldenburg, Germany
