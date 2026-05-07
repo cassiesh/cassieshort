@@ -38,8 +38,6 @@ publication_types: ["article-journal"]
 publication: "*Advances in Methods and Practices in Psychological Science*"
 # publication_short: ""
 
-abstract: Multiverse analysis offers a comprehensive response to a core vulnerability in empirical research: the uncertainty of scientific conclusions arising from defensible yet flexible data processing and analysis decisions. By systematically mapping and computing all, or a sample of all, plausible data processing pipelines, multiverse analysis reports the robustness of findings across analytical flexibility and increases transparency in the research process. As its adoption grows across disciplines, so too does the need for clarity on how to design, report, and interpret multiverse results responsibly. This paper provides interdisciplinary guidance on key procedural considerations, including defensibility and equivalence evaluations, preregistration, and computational demands. We aim to harmonise terminology, promote best practices, and foster conceptual cohesion across fields, supported by reference to domain-specific resources where appropriate. By doing so, we contribute to the broader movement towards more robust, reproducible, and transparent science; one that not only reports results, but also interrogates the analytical pipelines that produce them.
-
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
