@@ -1,5 +1,5 @@
 ---
-title: "Multi-curious: A Multi-Disciplinary Guide to Multiverse Analysis (preprint)."
+title: "Multi-curious: A Multi-Disciplinary Guide to Multiverse Analysis"
 authors:
 - "Cassie Ann Short"
 - "Nate Breznau"
@@ -23,7 +23,7 @@ authors:
 # author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-date: "2025-02-26"
+date: "in press"
 doi: "https://doi.org/10.31222/osf.io/4yzeh_v1"
 
 # Schedule page publish date (NOT publication's date).
@@ -35,10 +35,10 @@ doi: "https://doi.org/10.31222/osf.io/4yzeh_v1"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*MetaArXiv*"
+publication: "*Advances in Methods and Practices in Psychological Science*"
 # publication_short: ""
 
-abstract: Multiverse analysis has emerged as a valuable tool for increasing transparency and assessing robustness in empirical research across many scientific disciplines. By systematically exploring multiple defensible analytical paths, researchers can uncover how different decisions in data processing, model specification, and estimation impact results. However, while multiverse analysis holds significant promise, it also presents several challenges that researchers must navigate. This paper draws on interdisciplinary perspectives and knowledge to provide procedural guidance on design, reporting and interpretation of multiverse results. We discuss diverse data features, levels of precision, preregistration, and computational resources. We aim to produce cohesion across disciplines in multiverse analysis practices, perspectives and terminology, and contribute to ongoing efforts to improve the robustness and reproducibility of scientific results across disciplines.
+abstract: Multiverse analysis offers a comprehensive response to a core vulnerability in empirical research: the uncertainty of scientific conclusions arising from defensible yet flexible data processing and analysis decisions. By systematically mapping and computing all, or a sample of all, plausible data processing pipelines, multiverse analysis reports the robustness of findings across analytical flexibility and increases transparency in the research process. As its adoption grows across disciplines, so too does the need for clarity on how to design, report, and interpret multiverse results responsibly. This paper provides interdisciplinary guidance on key procedural considerations, including defensibility and equivalence evaluations, preregistration, and computational demands. We aim to harmonise terminology, promote best practices, and foster conceptual cohesion across fields, supported by reference to domain-specific resources where appropriate. By doing so, we contribute to the broader movement towards more robust, reproducible, and transparent science; one that not only reports results, but also interrogates the analytical pipelines that produce them.
 
 # Summary. An optional shortened abstract.
 # summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
