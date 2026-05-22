@@ -10,7 +10,7 @@ authors:
 # - "Equal contribution"
 # - "Equal contribution"
 date: "2025-09-09"
-doi: "https://doi.org/10.31222/osf.io/yfr2d_v1"
+doi: "https://doi.org/10.1098/rsos.250800"
 
 # Schedule page publish date (NOT publication's date).
 # publishDate: "2017-01-01T00:00:00Z"
