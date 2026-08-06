@@ -47,7 +47,7 @@ doi: "http://econtent.hogrefe.com/doi/full/10.1026/0033-3042/a000766"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Psychologische Rundschau*, *Special Issue: Perspektiven der DGPs-Fachgruppen auf KI"
+publication: "*Psychologische Rundschau*, *Special Issue: Perspektiven der DGPs-Fachgruppen auf KI. [English translation](https://osf.io/preprints/psyarxiv/j8szh_v2)"
 # publication_short: ""
 
 # Summary. An optional shortened abstract.
