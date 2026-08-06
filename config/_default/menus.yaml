@@ -21,7 +21,7 @@ main:
     weight: 50
   
   - name: Workshops
-    url: teachingworkshops-and-invited-talks/
+    url: workshops-and-invited-talks/
     weight: 50
   
   - name: Funding and Awards

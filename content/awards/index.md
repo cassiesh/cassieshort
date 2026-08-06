@@ -7,7 +7,7 @@ This section highlights academic awards, fellowships, and grant funding received
 **2026 - SIPS Commendation for Contribution to the Event Love Replications Week**
 * **Awarding Body:** Society for the Improvement of Psychological Science (SIPS)
 
-**2025 - DFG Individual Research Grant (Eigene Stelle)**
+**2026 - DFG Individual Research Grant (Eigene Stelle)**
 * **Awarding Body:** Deutsche Forschungsgemeinschaft (DFG), Germany
 * **Amount:** 360,562 Euros
 
