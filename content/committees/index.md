@@ -6,7 +6,7 @@ This section highlights academic and professional committees I have currently se
 
 ## Germany 
 
-* **2026 - present:** Steering Committee Member of [IGOR](https://www.dgps.de/fachgruppen/fgbi/aktivitaeten-der-fachgruppe/igor/), the Interest Group for Open and Reproducible Research within the Biological Psychology and Neuropsychology division of the DGPs. Specific role leading Knowledge Transfer.
+* **2026 - present:** Steering Committee Member of [IGOR](https://www.dgps.de/fachgruppen/fgbi/aktivitaeten-der-fachgruppe/igor/), the Interest Group for Open and Reproducible Research within the Biological Psychology and Neuropsychology division of the DGPs. Specific role in the committee: co-leading Knowledge Transfer.
 * **2025 - present:** Spokesperson at the German Reproducibility Network for the [Open Science Interest Group (OSIG)](https://uol.de/psychologie/open-science/osig) of the Psychology Department, Carl von Ossietzky Universität Oldenburg
 * **2023 - present:** Co-lead of the [Open Science Interest Group (OSIG)](https://uol.de/psychologie/open-science/osig) of the Psychology Department, Carl von Ossietzky Universität Oldenburg
 * **2023 - present:** [Associate Junior Fellow](https://hanse-ias.de/en/fellowships/fellow/17215), [Hanse-Wissenschaftskolleg Institute for Advanced Study, Delmenhorst](https://hanse-ias.de/en/)
