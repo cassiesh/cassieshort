@@ -4,6 +4,17 @@ title: "Funding and Awards"
 
 This section highlights academic awards, fellowships, and grant funding received.
 
+**2026 - SIPS Commendation for Contribution to the Event Love Replications Week**
+* **Awarding Body:** Society for the Improvement of Psychological Science (SIPS)
+
+**2025 - DFG Individual Research Grant (Eigene Stelle)**
+* **Awarding Body:** Deutsche Forschungsgemeinschaft (DFG), Germany
+* **Amount:** 360,562 Euros
+
+**2025 - META-REP Small Project Funding**
+* **Awarding Body:** DFG SPP META-REP
+* **Amount:** 2,000 Euros
+
 **2025 - IGOR Prize for Open and Reproducible Science in Biological Psychology**
 * **Awarding Body:** Interest Group for Open and Reproducible Science (IGOR) of the Biological Psychology Section of the German Psychological Association (DGPs)
 * **Amount:** 250 Euros
