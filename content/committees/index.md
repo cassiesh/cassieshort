@@ -12,7 +12,6 @@ This section highlights academic and professional committees I have currently se
 * **2023 - present:** [Associate Junior Fellow](https://hanse-ias.de/en/fellowships/fellow/17215), [Hanse-Wissenschaftskolleg Institute for Advanced Study, Delmenhorst](https://hanse-ias.de/en/)
 * **2024 - present:** Member of the Science Communication Interest Group of the Psychology Department, Carl von Ossietzky Universität Oldenburg
 * **2024 - present:** Member of the Admissions Committee, Psychology Department, Carl von Ossietzky Universität Oldenburg
-* **Pending:** Speaker for the OSIG Membership of The German Reproducibility Network
 
 ## England, UK
 
@@ -32,5 +31,7 @@ This section highlights academic and professional committees I have currently se
 * British Journal of Psychology: 2
 * Statistics in Medicine: 2
 * PCI-Registered Reports: 1
-* International Journal of Psychophysiology: 1
+* International Journal of Psychophysiology: 2
 * Psychophysiology: 1
+* Advances in Methods and Practices in Psychological Science: 1
+* Plos ONE: 1
