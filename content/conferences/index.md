@@ -14,48 +14,6 @@ As co-lead of the Open Science Interest Group (OSIG) in the Department of Psycho
 As part of my Associate Junior Fellowship at the Hanse-Wissenschaftskolleg Delmenhorst (HWK), I organised a two-day workshop on strategies to evaluate and improve the validity of single-trial EEG estimates. The workshop brought together international experts in psychophysiology, psychometrics, and EEG methodology and laid the foundation for an ongoing collaborative paper on improving replicability in EEG individual differences research. 
 🔗 [Event page](https://hanse-ias.de/en/the-institute/projects/postdoc-program/events/event/520)
 
-## Workshops
-
-**December 2025 - Proposing a Methods Review of Network Neuroscience, Informed by Open Science Principles**
-Mapping Interdisciplinary Perspectives on Network Neuroscience-Based Brain-Behaviour Modelling 2025, Hong Kong
-Trainers: Andrea Hildebrandt, Cassie Short
-
-**June 2025 - Multiverse Analysis for Neuroimaging**
-Psychologie und Gehirn Conference 2025, Würzburg, Germany
-Trainers: Cassie Short, Micha Burkhardt, Daniel Kristanto
-
-**October 2024 - Multiverse Analysis: From Theory to Practical Implementation in R**
-META-REP Conference 2024, Munich, Germany
-Trainers: Cassie Short, Daniel Kristanto
-
-**June 2024 - Preregistering the Multiverse**
-Society for the Improvement of Psychological Science (SIPS), online
-Trainers: Maximilian Frank, Lisa Spitzer, Cassie Short
-
-**March 2024 - Making the Black Box Transparent: Multiverse Analysis and Visualizations in R**
-Open Science Center, Ludwig-Maximilians-Universität München, Munich, Germany
-Trainers: Cassie Short, Andrea Hildebrandt
-
-**September 2023 - Making the Black Box Transparent: Multiverse Analysis and Visualizations in R**
-Differentielle Psychologie, Persönlichkeitspsychologie und Psychologische Diagnostik (DPPD) Conference 2023, Salzburg, Austria
-Trainers: Cassie Short, Daniel Kristanto, Andrea Hildebrandt
-
-**July 2023 - Hack-a-thon: Reducing Barriers to Open Science for Early Career Researchers**
-Society for the Improvement of Psychological Science (SIPS), Padua, Italy
-Trainers: Cassie Short
-
-## Webinars
-
-**March 2026 - Multiverse Analysis for Reporting Robustness to Analytical Flexibility**
-Love Replications Week
-
-**July 2023 - Multiverse Analysis**
-Meta-Research Methods Series, QUEST Center, Berlin Institute of Health @ Charité
-🔗 [Recording](https://www.youtube.com/watch?v=CikYpe3589Q&list=PLfUhgSAavwIUVRzWk3SA-vkzYRSwBw_Bd)
-
-**January 2021 - Peer-discussion and Inclusivity in Online Seminars**
-Teaching Excellence Network Webinar, University of Bolon, UK
-
 ## Panels
 
 **September 2025 - Multiverse Analysis: Essential for Scientific Rigour?**
